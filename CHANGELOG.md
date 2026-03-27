@@ -1,83 +1,81 @@
-<a name="4.0.3"></a>
-## [4.0.3](https://github.com/BerkeleyTrue/warning/compare/v4.0.2...v4.0.3) (2019-02-09)
+# victory-vendor
 
+## 36.9.2
 
-### Bug Fixes
+## 36.9.1
 
-* incorrect formatting of message with arguments ([b188176](https://github.com/BerkeleyTrue/warning/commit/b188176))
+## 36.9.0
 
+## 36.8.6
 
+## 36.8.5
 
-<a name="4.0.2"></a>
-## [4.0.2](https://github.com/BerkeleyTrue/warning/compare/v4.0.1...v4.0.2) (2018-08-17)
+### Patch Changes
 
+- Replace instances of lodash.assign with Object.assign ([#2757](https://github.com/FormidableLabs/victory/pull/2757))
 
-### Bug Fixes
+## 36.8.4
 
-* **use jest instead of tap:** tap is a PITA to debug ([c4c026b](https://github.com/BerkeleyTrue/warning/commit/c4c026b))
-* remove [@provides](https://github.com/provides)Module annotation ([1d808f1](https://github.com/BerkeleyTrue/warning/commit/1d808f1))
+## 36.8.3
 
+## 36.8.2
 
+## 36.8.1
 
-# Change Log
+## 36.8.0
 
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+## 36.7.0
 
-<a name="4.0.1"></a>
-## [4.0.1](https://github.com/BerkeleyTrue/warning/compare/v4.0.0...v4.0.1) (2018-05-30)
+## 36.6.12
 
+## 36.6.11
 
-### Bug Fixes
+## 36.6.10
 
-* add `var printWarning =` to comply with ES5 strict mode ([677dcfa](https://github.com/BerkeleyTrue/warning/commit/677dcfa)), closes [#25](https://github.com/BerkeleyTrue/warning/issues/25)
+### Patch Changes
 
-<a name="4.0.0"></a>
-## [4.0.0](https://github.com/BerkeleyTrue/warning/compare/v3.0.0...v4.0.0) (2018-05-22)
+- Setup NPM Provenance ([#2590](https://github.com/FormidableLabs/victory/pull/2590))
 
+## 36.6.9
 
-### Bug Fixes
+### Patch Changes
 
-* Remove "browser" version ([521f5f5](https://github.com/BerkeleyTrue/warning/commit/521f5f5)), closes [#18](https://github.com/BerkeleyTrue/warning/issues/18) [/github.com/facebook/fbjs/pull/86#issuecomment-285204734](https://github.com//github.com/facebook/fbjs/pull/86/issues/issuecomment-285204734)
-* Update warning to use the latest version from facebook/fbjs ([0572ddd](https://github.com/BerkeleyTrue/warning/commit/0572ddd))
+- Setup NPM Provenance ([#2587](https://github.com/FormidableLabs/victory/pull/2587))
 
+## 36.6.8
 
-### Chores
+## 36.6.7
 
-* **LICENSE:** Change from BSD modified to MIT ([5a63a1b](https://github.com/BerkeleyTrue/warning/commit/5a63a1b))
+## 36.6.6
 
+## 36.6.5
 
-### BREAKING CHANGES
+### Patch Changes
 
-* **LICENSE:** Change License to MIT from BSD+patents
-* This changes the internal workings. A major release is
-made to ensure minimal effect on downstream users.
+- Export types directly from d3-\* (fixes [#2439](https://github.com/FormidableLabs/victory/issues/2439)) ([#2440](https://github.com/FormidableLabs/victory/pull/2440))
 
+## 36.6.4
 
-<a name="3.0.0"></a>
-## [3.0.0](https://github.com/BerkeleyTrue/warning/compare/v2.1.0...v3.0.0) (2015-10-04)
+### Patch Changes
 
-### BREAKING CHANGE
+- Allow data accessors to accept any data types (fixes [#2360](https://github.com/FormidableLabs/victory/issues/2360)) ([#2436](https://github.com/FormidableLabs/victory/pull/2436))
 
-* **package.json** correct license field ([6bd7ad5](https://github.com/BerkeleyTrue/warning/commit/6bd7ad5))
+## 36.6.3
 
-<a name="2.1.0"></a>
-## [2.1.0](https://github.com/BerkeleyTrue/warning/compare/v2.0.0...v2.1.0) (2015-10-04)
+### Patch Changes
 
-### Features
+- Do not generate \*.js.map sourcemaps (fixes [#2346](https://github.com/FormidableLabs/victory/issues/2346)) ([#2432](https://github.com/FormidableLabs/victory/pull/2432))
 
-* switch to loose-envify ([dacc2da](https://github.com/BerkeleyTrue/warning/commit/dacc2da))
+## 36.6.2
 
-<a name="2.0.0"></a>
-## [2.0.0](https://github.com/BerkeleyTrue/warning/compare/v1.0.2...v2.0.0) (2015-07-11)
+## 36.6.1
 
-### BREAKING CHANGE
+## 36.6.0
 
-* add browser(ify) friendly version ([1a33d40fa1](https://github.com/BerkeleyTrue/warning/commit/1a33d40fa1))
+### Patch Changes
 
-<a name="1.0.2"></a>
-## [1.0.2](https://github.com/BerkeleyTrue/warning/compare/v1.0.1...v1.0.2) (2015-05-30)
+- Update source code with minor lint-based improvements (see [#2236](https://github.com/FormidableLabs/victory/issues/2236)). ([#2403](https://github.com/FormidableLabs/victory/pull/2403))
 
-### Bug Fixes
+## 36.5.3 and earlier
 
-* return args in replace ([2ac6962](https://github.com/BerkeleyTrue/warning/commit/2ac6962263))
+Change history for version 36.5.3 and earlier can be found in our root [CHANGELOG.md](https://github.com/FormidableLabs/victory/blob/main/CHANGELOG.md).
